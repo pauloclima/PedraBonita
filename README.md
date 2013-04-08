@@ -3,4 +3,6 @@ PedraBonita
 
 Sistema de Imagens Rampa da Pedra Bonita
 
-Criado repositório associado ao Projeto no Pivotal Tracker.
+Criado repositório no GitHub associado ao Projeto no Pivotal Tracker.
+Criado projeto no Pivotal Tracker.
+
